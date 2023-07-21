@@ -26,7 +26,7 @@ The link to the Tableau dashboard where the details can be seen clearer can be f
 
 ## 3. Where are the private works concentrated across America?
 
-![Story%201%20%284%29.png](Story%201%20%284%29.png)
+![st_private_work.png](st_private_work.png)
 
 
 ```python
